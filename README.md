@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Nikita Bhargava
 
 <!--
 **Nikita28Bhargava/Nikita28Bhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
